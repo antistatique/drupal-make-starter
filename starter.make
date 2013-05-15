@@ -27,7 +27,7 @@ projects[cck_blocks][subdir] = "contrib"
 projects[cck_blocks][version] = "1.1"
 
 projects[ctools][subdir] = "contrib"
-projects[ctools][version] = "1.2"
+projects[ctools][version] = "1.3"
 
 projects[context][subdir] = "contrib"
 projects[context][version] = "3.0-beta4"
